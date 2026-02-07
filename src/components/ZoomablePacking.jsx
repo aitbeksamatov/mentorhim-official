@@ -18,6 +18,36 @@ const DATA = {
           children: [{ name: "Erlan" }, { name: "Einar" }, { name: "Chyngyz" }, { name: "Samu" }] 
         },
         { 
+          name: "Murzaev Erlan", 
+          email: "null", 
+          phone: "null", 
+          children: [{ name: "Jumaliev Musa" }, { name: "Belekov Kaniet" }, { name: "Amankulov Nurbek" }] 
+        },
+        { 
+          name: "Belekov Kaniet", 
+          email: "null", 
+          phone: "null", 
+          children: [{ name: "Narbaev Musa" }] 
+        },
+        { 
+          name: "Sultanaliev Rinat", 
+          email: "null", 
+          phone: "null", 
+          children: [{ name: "Aitbekov Ismail" }, { name: "Taalaibekov Aizek" }] 
+        },
+        { 
+          name: "Kenchibaev Ashat", 
+          email: "null", 
+          phone: "null", 
+          children: [{ name: "Belekov Kerim" }, { name: "Belekov Eljan" }] 
+        },
+        { 
+          name: "Kiyaz Pak", 
+          email: "null", 
+          phone: "null", 
+          children: [{ name: "Bataev Marles" }, { name: "Ergeshov Eldar" }] 
+        },
+        { 
           name: "Jusup Erkin uulu", 
           email: "josephturganbekov@gmail.com", 
           phone: "0500046141", 
