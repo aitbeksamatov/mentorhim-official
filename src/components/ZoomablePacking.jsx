@@ -46,6 +46,29 @@ const DATA = {
           email: "null", 
           phone: "null", 
           children: [{ name: "Bataev Marles" }, { name: "Ergeshov Eldar" }] 
+        }, { 
+          name: "Kenchevaev Adilet", 
+          email: "null", 
+          phone: "null", 
+          children: [{ name: "Rainbekov Turat" }] 
+        },
+        { 
+          name: "Akmataliev Nurdamir", 
+          email: "null", 
+          phone: "null", 
+          children: [{ name: "Sultanbekov Nuramil" }] 
+        },
+        { 
+          name: "Baktybekov Kutnazar", 
+          email: "null", 
+          phone: "null", 
+          children: [{ name: "Nurlan uulu Daniel" }] 
+        },
+        { 
+          name: "Omurov Maksat", 
+          email: "null", 
+          phone: "null", 
+          children: [{ name: "Akunov Samyibek" }] 
         },
         { 
           name: "Jusup Erkin uulu", 
