@@ -121,7 +121,23 @@ const DATA = {
       ],
     },
     { name: "Kazakhstan", children: [{ name: "Bolat", email: "amangeldievbolat63@gmail.com", children: [{ name: "Nursultan" }, { name: "Daniyal" }, { name: "In progress.." }] }] },
-    { name: "Uzbekistan", children: [{ name: "Paul", email: "levapyaguy@gmail.com", children: [{ name: "Ildar" }, { name: "Victor" }, { name: "Kostya" }] }] },
+    { name: "Uzbekistan", children: [{ 
+      name: "Paul", 
+      email: "levapyaguy@gmail.com", 
+      children: [{ name: "Ildar" }, { name: "Victor" }, { name: "Kostya" }]
+     }]
+    },{
+      name: "Ildar",
+      children: [{ name: "Alex"}, {name: "David"}]
+    },
+    {
+      name: "Zamir",
+      children: [{ name: "Ildar"}, {name: "Rusya"}]
+    },{
+      name: "Atabek",
+      children: [{ name: "Ilyoz"}, {name: "Ulugbek"}]
+    },
+
     { name: "Russia" },
   ],
 };
