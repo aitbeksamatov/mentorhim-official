@@ -24,6 +24,12 @@ const DATA = {
           children: [{ name: "Jumaliev Musa" }, { name: "Belekov Kaniet" }, { name: "Amankulov Nurbek" }] 
         },
         { 
+          name: "Baktybekov Beknazar", 
+          email: "null", 
+          phone: "null", 
+          children: [{ name: "Keremet" }] 
+        },
+        { 
           name: "Belekov Kaniet", 
           email: "null", 
           phone: "null", 
